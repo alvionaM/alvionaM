@@ -8,7 +8,6 @@ a 22 y.o. senior undergraduate student @ Athens University of Economics and Busi
 💡Mostly Interested in **Theoretical C.S.** 🔍, **Artificial Intelligence** 🤖, **Data Science** 📊, **Software Engineering** 💻 <br>
 🌱 I’m currently studying Machine Learning, Algorithms, Game Theory, Web Development <br>
 🎯 Eager to contribute to the advancement of computer science in the near future <br>
-📫 Current
 😄 Pronouns: she/her<br>
 
 <div id="badges" align="center">
