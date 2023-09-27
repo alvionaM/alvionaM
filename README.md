@@ -5,7 +5,7 @@
 
 ### 👋 Hi there, I'm Alviona Mancho,
 a 22 y.o. senior undergraduate student @ Athens University of Economics and Business (<a href="https://www.aueb.gr/en">AUEB</a>), studying C.S. (<a href="https://www.dept.aueb.gr/en/infotech-overview-en">dept. of Informatics</a>). <br><br>
-💡Mostly Interested in **Theoretical C.S.** 🔍, **Artificial Intelligence** 🤖, **Data Science** 📊, **Software Engineering** 💻 <br>
+💡Mostly Interested in **Theoretical C.S.** 🔍 **Artificial Intelligence** 🤖 **Data Science** 📊 **Software Engineering** 💻 <br>
 🌱 I’m currently studying Machine Learning, Algorithms, Game Theory, Web Development <br>
 🎯 Eager to contribute to the advancement of computer science in the near future <br>
 😄 Pronouns: she/her<br>
@@ -13,6 +13,9 @@ a 22 y.o. senior undergraduate student @ Athens University of Economics and Busi
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/alviona-mancho">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="discordapp.com/users/780074779281457153">
+    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
 
@@ -55,9 +58,9 @@ a 22 y.o. senior undergraduate student @ Athens University of Economics and Busi
 
 
 
-
+<!--
 ---
 
 <div id="footer" align="center">
   <img src="https://media.giphy.com/media/pT4hk0FMDu5VT0oRQc/giphy.gif" height="270"/>
-</div>
+</div> -->
