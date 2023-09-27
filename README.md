@@ -11,10 +11,10 @@ a 22 y.o. senior undergraduate student @ Athens University of Economics and Busi
 😄 Pronouns: she/her<br>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/alviona-mancho">
+  <a href="https://www.linkedin.com/in/alviona-mancho" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="discordapp.com/users/780074779281457153">
+  <a href="https://discordapp.com/users/780074779281457153" target="_blank">
     <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
