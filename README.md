@@ -4,7 +4,7 @@
 </div>
 
 ### 👋 Hi there, I'm Alviona Mancho,
-a 22 y.o. senior undergraduate student @ Athens University of Economics and Business (<a href="https://www.aueb.gr/en">AUEB</a>), studying C.S. (<a href="https://www.dept.aueb.gr/en/infotech-overview-en">dept. of Informatics</a>) <br><br>
+a 22 y.o. senior undergraduate student @ Athens University of Economics and Business (<a href="https://www.aueb.gr/en">AUEB</a>), studying C.S. (<a href="https://www.dept.aueb.gr/en/infotech-overview-en">dept. of Informatics</a>). <br><br>
 💡Mostly Interested in **Theoretical C.S.**, **Artificial Intelligence**, **Data Science**, **Software Engineering** <br>
 🌱 I’m currently studying Machine Learning, Algorithms, Game Theory, Web Development <br>
 🎯 Eager to contribute to the advancement of computer science in the near future <br>
@@ -17,13 +17,19 @@ a 22 y.o. senior undergraduate student @ Athens University of Economics and Busi
   </a>
 </div>
 
+---
 
 
-<!--
-**alvionaM/alvionaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="break" align="center">
+  <img src="https://media.giphy.com/media/aUR6unOaMpjflMx3SZ/giphy.gif" height="130"/>
+  <img src="https://media.giphy.com/media/oOZEgJ7JHdqogFgmyQ/giphy.gif" height="270"/>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 
--->
+
+
+---
+
+<div id="footer" align="center">
+  <img src="https://media.giphy.com/media/pT4hk0FMDu5VT0oRQc/giphy.gif" height="270"/>
+</div>
