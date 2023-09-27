@@ -5,11 +5,11 @@
 
 ### 👋 Hi there, I'm Alviona Mancho,
 a 22 y.o. senior undergraduate student @ Athens University of Economics and Business (<a href="https://www.aueb.gr/en">AUEB</a>), studying C.S. (<a href="https://www.dept.aueb.gr/en/infotech-overview-en">dept. of Informatics</a>). <br><br>
-- 💡Mostly Interested in **Theoretical C.S.**, **Artificial Intelligence**, **Data Science**, **Software Engineering** <br>
-- 🌱 I’m currently studying Machine Learning, Algorithms, Game Theory, Web Development <br>
-- 🎯 Eager to contribute to the advancement of computer science in the near future <br>
-- 📫 How to reach me: www.linkedin.com/in/alviona-mancho <br>
-- 😄 Pronouns: she/her<br>
+💡Mostly Interested in **Theoretical C.S.** 🔍, **Artificial Intelligence** 🤖, **Data Science** 📊, **Software Engineering** 💻 <br>
+🌱 I’m currently studying Machine Learning, Algorithms, Game Theory, Web Development <br>
+🎯 Eager to contribute to the advancement of computer science in the near future <br>
+📫 Current
+😄 Pronouns: she/her<br>
 
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/alviona-mancho">
@@ -40,6 +40,14 @@ a 22 y.o. senior undergraduate student @ Athens University of Economics and Busi
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp; 
 </div>
+<br>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alvionaM&theme=catppuccin-mocha&border_radius=20)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvionaM&layout=compact)
 
 <div id="break" align="center">
   <img src="https://media.giphy.com/media/aUR6unOaMpjflMx3SZ/giphy.gif" height="130"/>
