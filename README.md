@@ -1,5 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/JHCV2wNMQJWlGPthgK/giphy.gif" height="300"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/EEy7Qip0YZ27PPtC7y/giphy.gif">
+    <img alt="Hello World!" src="https://media.giphy.com/media/JHCV2wNMQJWlGPthgK/giphy.gif" height="300"">
+  </picture>
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" height="300"/>
 </div>
 
@@ -49,7 +52,7 @@ a 22 y.o. senior undergraduate student @ Athens University of Economics and Busi
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alvionaM&theme=catppuccin-mocha&border_radius=20)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvionaM&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvionaM&layout=compact&theme=tokyonight&border_radius=20&)
 
 <div id="break" align="center">
   <img src="https://media.giphy.com/media/aUR6unOaMpjflMx3SZ/giphy.gif" height="130"/>
@@ -57,7 +60,5 @@ a 22 y.o. senior undergraduate student @ Athens University of Economics and Busi
 </div>
 
 
-
 <!-- <div id="footer" align="center">
-  <img src="https://media.giphy.com/media/pT4hk0FMDu5VT0oRQc/giphy.gif" height="270"/></div>
- https://media.giphy.com/media/JHCV2wNMQJWlGPthgK/giphy.gif-->
+  <img src="https://media.giphy.com/media/pT4hk0FMDu5VT0oRQc/giphy.gif" height="270"/></div>-->
