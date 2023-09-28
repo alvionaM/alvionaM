@@ -42,17 +42,19 @@ a 22 y.o. senior undergraduate student @ Athens University of Economics and Busi
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp; 
+  <img src="https://camo.githubusercontent.com/f11c5d9db0ef522f93802b93b826b3328b1ac6c4223a9e0f776c536d2102191a/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f383639352f383639353338352e706e67" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/4bcca7d4d6344b80a24761bfda0be628de444b8229902fecd50f08f1f6b41095/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f31313130342f31313130343235352e706e67" title="GitHub" alt="GitHub" width="39" height="39"/>&nbsp; 
 </div>
 <br>
 
 ---
 
 ### :fire: My Stats :
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alvionaM&hide=issues,prs&include_all_commits=true&show_icons=true&rank_icon=github&text_bold=false&theme=tokyonight&border_radius=20&text_color=94e2d5&bg_color=1e1e2e) <!---->
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alvionaM&theme=catppuccin-mocha&border_radius=20)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvionaM&layout=compact&theme=tokyonight&border_radius=20&text_color=94e2d5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvionaM&layout=compact&theme=tokyonight&border_radius=20&text_color=94e2d5&bg_color=1e1e2e)
 
 <div id="break" align="center">
   <img src="https://media.giphy.com/media/aUR6unOaMpjflMx3SZ/giphy.gif" height="130"/>
