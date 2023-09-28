@@ -52,7 +52,7 @@ a 22 y.o. senior undergraduate student @ Athens University of Economics and Busi
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alvionaM&theme=catppuccin-mocha&border_radius=20)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvionaM&layout=compact&theme=tokyonight&border_radius=20&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvionaM&layout=compact&theme=tokyonight&border_radius=20&text_color=94e2d5)
 
 <div id="break" align="center">
   <img src="https://media.giphy.com/media/aUR6unOaMpjflMx3SZ/giphy.gif" height="130"/>
