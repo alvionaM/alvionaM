@@ -7,9 +7,9 @@
 </div>
 
 ### 👋 Hi there, I'm Alviona Mancho,
-a 22 y.o. senior undergraduate student @ Athens University of Economics and Business (<a href="https://www.aueb.gr/en">AUEB</a>), studying C.S. (<a href="https://www.dept.aueb.gr/en/infotech-overview-en">dept. of Informatics</a>). <br><br>
+a 23 y.o. M.Sc. student @ Athens University of Economics and Business (<a href="https://www.aueb.gr/en">AUEB</a>), studying C.S. (<a href="https://www.dept.aueb.gr/en/infotech-overview-en">dept. of Informatics</a>). <br><br>
 💡Mostly Interested in **Theoretical C.S.** 🔍 **Artificial Intelligence** 🤖 **Data Science** 📊 **Software Engineering** 💻 <br>
-🌱 I’m currently studying Machine Learning, Algorithms, Game Theory, Web Development <br>
+🌱 I’m currently studying Reinforcement Learning, Algorithms, Natural Language Processing <br>
 🎯 Eager to contribute to the advancement of computer science in the near future <br>
 
 <div id="badges" align="center">
